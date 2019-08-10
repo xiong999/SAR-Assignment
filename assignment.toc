@@ -1,0 +1,17 @@
+\contentsline {section}{Assignment \#1}{1}{Doc-Start}% 
+\contentsline {subsection}{Task}{1}{section*.1}% 
+\contentsline {subsection}{Summary and Comment}{1}{section*.1}% 
+\contentsline {section}{Assignment \#2}{2}{section*.1}% 
+\contentsline {subsection}{Task}{2}{section*.2}% 
+\contentsline {paragraph}{Exercise 4.4.}{2}{paragraph*.3}% 
+\contentsline {paragraph}{Exercise 4.8.}{2}{paragraph*.4}% 
+\contentsline {subsection}{Answer}{2}{paragraph*.4}% 
+\contentsline {section}{Assignment \#3}{3}{paragraph*.4}% 
+\contentsline {subsection}{Task}{3}{section*.5}% 
+\contentsline {subsection}{Activities}{3}{section*.5}% 
+\contentsline {section}{Assignment \#4}{10}{figure.caption.11}% 
+\contentsline {subsection}{Task}{10}{section*.12}% 
+\contentsline {subsection}{Activities}{10}{section*.12}% 
+\contentsline {section}{Assignment \#5}{10}{Item.4}% 
+\contentsline {subsection}{Task}{10}{section*.13}% 
+\contentsline {subsection}{Activities}{10}{section*.13}% 
